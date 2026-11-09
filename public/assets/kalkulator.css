@@ -1,0 +1,12 @@
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.toggle-btn {
+  transition: all 0.3s ease;
+}
+.toggle-btn:hover {
+  transform: scale(1.05);
+}
+#display {
+  background-color: #f8f9fa;
+}
