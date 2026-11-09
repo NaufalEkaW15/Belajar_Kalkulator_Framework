@@ -22,4 +22,3 @@ Proyek pembelajaran membuat aplikasi kalkulator sederhana berbasis web menggunak
 3. Buka *browser* (Chrome/Edge/Firefox) dan akses URL berikut:
    `http://localhost/Belajar_kalkulator/public/`
    
-*(Atau, jika Anda menggunakan terminal, buka folder proyek dan ketikkan perintah `php spark serve`, lalu buka `http://localhost:8080` di browser).*
